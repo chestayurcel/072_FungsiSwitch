@@ -63,6 +63,12 @@ int main()
         input();
         cout << "Hasil pengurangan = " << pengurangan(bilSatu, bilDua) << endl;
         break;
+
+        case 5:
+        break;
+        default:
+        cout << "Pilihan tidak ada" << endl;
+        break;
       }
     
     
