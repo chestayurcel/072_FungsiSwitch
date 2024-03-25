@@ -10,3 +10,7 @@ void input()
     cout << "Masukkan Bilangan Kedua = ";
     cin >> bilDua;
 }
+float penjumlahan(float a, float b)
+{
+    return a + b;
+}
