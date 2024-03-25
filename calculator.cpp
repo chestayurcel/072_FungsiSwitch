@@ -51,8 +51,14 @@ int main()
         
         case 2:
         input();
-        cout << "Hasil pembagian = " << pembagian(bilSatu, bilDUa) << endl;
+        cout << "Hasil pembagian = " << pembagian(bilSatu, bilDua) << endl;
         break;
+
+        case 3:
+        input();
+        cout << "Hasil Perkalian = " << perkalian(bilSatu, bilDua) << endl;
+        break;
+        
       }
     
     
